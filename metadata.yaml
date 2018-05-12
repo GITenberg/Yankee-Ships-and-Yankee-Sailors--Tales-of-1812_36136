@@ -1,0 +1,38 @@
+_repo: Yankee-Ships-and-Yankee-Sailors--Tales-of-1812_36136
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Chapman, Carlton T.
+    gutenberg_agent_id: '38097'
+    url: http://www.gutenberg.org/2009/agents/38097
+  - agent_name: Zogbaum, Rufus Fairchild
+    alias: Zogbaum, R. F. (Rufus Fairchild)
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '38096'
+    url: http://www.gutenberg.org/2009/agents/38096
+covers:
+- cover_type: archival
+  image_path: 36136-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barnes, James
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '38095'
+    url: http://www.gutenberg.org/2009/agents/38095
+description: ''
+gutenberg_issued: '2011-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36136'
+  lccn: '04023566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- War of 1812 -- Naval operations -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Yankee Ships and Yankee Sailors: Tales of 1812'
+url: http://www.gutenberg.org/ebooks/36136
